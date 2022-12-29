@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Damitha Dananjaya
 - 👀 I’m interested in web programming
-- 🌱 I'm currently learning python (I mean, basic python...), Algorithm, Performance and Optimization.
+- 🌱 I'm currently learning python.
 - 💞️ I’m looking to collaborate on Open Sourse Projects.
 
 <!---
